@@ -1,0 +1,1 @@
+# hachimi_training_badge
