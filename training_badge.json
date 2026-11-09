@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "mode": "probe",
+  "max_scenes": 12,
+  "attach": true,
+  "json_path": "",
+  "offset_y": -200,
+  "decision_path": "C:/Ai/masuri-ai/out/decision.jsonl",
+  "stale_secs": 300,
+  "note": "v11: 所有图标统一偏移 -200；训练槽位按世界X降序（速度=最左）；决策过期回落 Ai计算中",
+  "number_all": false,
+  "frame_dir": "C:/Ai/masuri-ai/.portable/PluginData/SendGameStatusPlugin"
+}

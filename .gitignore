@@ -1,0 +1,24 @@
+# Rust build output - build locally, never commit binaries
+/target/
+*.dll
+*.dll.a
+*.pdb
+*.exp
+*.lib
+*.d
+
+# Local experiment artefacts (kept on the dev machine, not published)
+assets_train_icon.png
+badge_demo.bmp
+*.bak_*
+*.loaded_old
+*.copy.json
+*.new.json
+hachimi.log
+Player.log
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
